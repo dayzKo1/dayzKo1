@@ -1,13 +1,6 @@
-<div align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="assets/avatar.png" width="140" alt="avatar" />
   
-# Hey! 我是林鸿昊 👋
+# Hey! 我是az 👋
 </div>
 
 <br/>
