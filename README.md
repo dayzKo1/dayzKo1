@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-wave.svg" width="100%" alt="Daze · dayzKo1 — AI Agent Engineer (FDE · Agent Training)"/>
+<img src="assets/header-wave.png" width="100%" alt="Daze · dayzKo1 — AI Agent Engineer (FDE · Agent Training)"/>
 
 # Daze · dayzKo1
 
@@ -85,4 +85,4 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 
 </div>
 
-<img src="assets/footer-wave.svg" width="100%" alt=""/>
+<img src="assets/footer-wave.png" width="100%" alt=""/>
