@@ -28,7 +28,7 @@
 | **Ghost Huang Monorepo**（私仓） | 个人多仓全栈：Vue3 前端 + React 管理后台 + NestJS（25 业务模块）+ FastAPI 微服务，用多智能体流水线完成 Java→NestJS 迁移 |
 | **小游戏矩阵** | 20+ 款 Telegram / 抖音 Mini App：PixiJS + RxJS 架构、对象池 60fps、可复用组件库（部分开源，见下方置顶） |
 
-## 置顶仓库
+## 精选仓库
 
 - [dw-schedule](https://github.com/dayzKo1/dw-schedule) — 行程周表工具，GitHub Pages 在线可用
 - [dw-doc](https://github.com/dayzKo1/dw-doc) — VitePress 团队站点实践
