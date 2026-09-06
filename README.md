@@ -45,6 +45,8 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 
 **Backend**: NestJS · Python / FastAPI · Spring Boot · Redis · PostgreSQL · Docker
 
+<div align="center"><b><a href="#-我在做什么">中文版在下方 ↓</a></b></div>
+
 ---
 
 ## 🧭 我在做什么
@@ -70,6 +72,21 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 **前端**：React · Vue · TypeScript · Tauri · 小程序 · PixiJS · RxJS · ECharts
 
 **后端**：NestJS · Python / FastAPI · Spring Boot · Redis · PostgreSQL · Docker
+
+<div align="center"><b><a href="#-what-i-do">English above ↑</a></b></div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub 统计 / Stats
+
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=dayzKo1&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c84c22&icon_color=f0a860" alt="GitHub stats"/>
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayzKo1&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=c84c22" alt="Top languages"/>
+
+  <img src="https://streak-stats.demolab.com/?user=dayzKo1&hide_border=true&background=0d1117&currStreakLabel=c84c22" alt="streak" height="150"/>
+
+</div>
 
 ---
 
