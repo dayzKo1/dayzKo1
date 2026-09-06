@@ -31,12 +31,6 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 | **Ghost Huang Monorepo**（私仓） | 个人多仓全栈：Vue3 前端 + React 管理后台 + NestJS（25 业务模块）+ FastAPI 微服务，用多智能体流水线完成 Java→NestJS 迁移 |
 | **小游戏矩阵** | 20+ 款 Telegram / 抖音 Mini App；代表作《中国龙 2》麻将消消乐**全栈开源**（[mjh_app](https://github.com/dayzKo1/mjh_app)：小程序 + Web + 云函数后端 + 管理后台） |
 
-## 📦 精选仓库
-
-- [dw-schedule](https://github.com/dayzKo1/dw-schedule) — 行程周表工具，GitHub Pages 在线可用
-- [dw-doc](https://github.com/dayzKo1/dw-doc) — VitePress 团队站点实践
-- [mah-miniapp](https://github.com/dayzKo1/mah-miniapp) · [mj_app](https://github.com/dayzKo1/mj_app) — 麻将三消小游戏（抖音小程序 / Web 复刻）
-
 ## 🧰 技术栈
 
 **Agent**：Prompt 工程 · Skill / MCP · 工具调用 · 多智能体编排 · 评测与回归 · MiniMax（Mavis）/ Accio Work / Coze / Claude Code / Codex
@@ -64,12 +58,6 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 | **B2B overseas trade site** (client env) | Astro 7 + Node SSR, 4-locale i18n (incl. Arabic RTL), AI-triaged inquiry pipeline, full engineering baseline (RBAC / audit / Prometheus) |
 | **Ghost Huang Monorepo** (private) | Personal multi-repo full stack: Vue3 frontend + React admin + NestJS (25 business modules) + FastAPI microservice; migrated Java→NestJS via a multi-agent pipeline |
 | **Mini-game matrix** | 20+ Telegram / Douyin Mini Apps; flagship *Dragon Mahjong* fully open-sourced ([mjh_app](https://github.com/dayzKo1/mjh_app): mini-app + web + cloud functions + admin) |
-
-### 📦 Featured repos
-
-- [dw-schedule](https://github.com/dayzKo1/dw-schedule) — weekly schedule visualizer, live on GitHub Pages
-- [dw-doc](https://github.com/dayzKo1/dw-doc) — team docs site with VitePress
-- [mah-miniapp](https://github.com/dayzKo1/mah-miniapp) · [mj_app](https://github.com/dayzKo1/mj_app) — mahjong match-3 games (Douyin mini-app / web remake)
 
 ### 🧰 Tech stack
 
