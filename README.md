@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Daze · AI Agent Engineer — agent training & deployment"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2c,55:c84c22,100:f0a860&height=190&section=header&text=Daze%20%C2%B7%20dayzKo1&fontSize=54&fontColor=e6edf3&desc=AI%20Agent%20Engineer%20%E2%80%94%20FDE%20%C2%B7%20Agent%20Training%20%C2%B7%20Full-stack&descSize=17&descAlignY=76&descAlign=center&animation=fadeIn" width="100%" alt="Daze · dayzKo1 header"/>
 
 # Daze · dayzKo1
 
