@@ -2,16 +2,42 @@
 
 # Daze · dayzKo1
 
-**AI Agent 工程师（前沿部署 FDE · 智能体训练）** / **AI Agent Engineer (Forward-Deployed FDE · Agent Training)**
+**AI Agent Engineer (Forward-Deployed FDE · Agent Training)** / **AI Agent 工程师（前沿部署 FDE · 智能体训练）**
 
-把大模型能力落进企业真实业务：30+ 家企业智能体实施 · 多智能体交付流水线 · 5 年全栈工程兜底
 Putting LLM capabilities into real business: 30+ enterprise agent deployments · multi-agent delivery pipelines · 5 years of full-stack engineering
+把大模型能力落进企业真实业务：30+ 家企业智能体实施 · 多智能体交付流水线 · 5 年全栈工程兜底
 
-**[中文](#-我在做什么)** | [English](#english)
+**[English](#-what-i-do)** | [中文](#-我在做什么)
 
-`Agent 工程化 / Agent Engineering` · `RAG` · `MCP 与工具调用 / Tool Calling` · `Prompt 工程` · `Skill 开发` · `评测与回归 / Eval & Regression`
+`Agent Engineering / Agent 工程化` · `RAG` · `MCP & Tool Calling / MCP 与工具调用` · `Prompt Engineering / Prompt 工程` · `Eval & Regression / 评测与回归`
 
 </div>
+
+---
+
+## 🧭 What I do
+
+- **Enterprise agent deployment (FDE)** — implementing the AWB / Accio Work agent platform for foreign-trade companies: discovery → Agent/Skill customization → one-click install → user training → validation; distilled a 3-tier delivery baseline for fast onboarding of new clients
+- **Agent training** — behavior specs, long-term memory and data-compliance for production agents; reusable Skills including inquiry dashboards, CRM activation pipelines and failure-recovery SOPs
+- **Multi-agent engineering** — project-level orchestration (parallel development + independent review) shipping client sites and dashboards; auditable and rollback-safe
+- **Full-stack fallback** — 40+ projects over 5 years: React / Vue / TypeScript frontend, NestJS / FastAPI / Spring Boot backend, Tauri desktop, mini-programs and games
+
+## 🏗 Selected work
+
+| Project | Summary |
+| --- | --- |
+| **athena** (personal tool, private) | One-click install & configuration platform for agent skills: Tauri desktop + SKILL packaging toolchain + docs site, CI on 3 platforms |
+| **B2B overseas trade site** (client env) | Astro 7 + Node SSR, 4-locale i18n (incl. Arabic RTL), AI-triaged inquiry pipeline, full engineering baseline (RBAC / audit / Prometheus) |
+| **Ghost Huang Monorepo** (private) | Personal multi-repo full stack: Vue3 frontend + React admin + NestJS (25 business modules) + FastAPI microservice; migrated Java→NestJS via a multi-agent pipeline |
+| **Mini-game matrix** | 20+ Telegram / Douyin Mini Apps; flagship *Dragon Mahjong* fully open-sourced ([mjh_app](https://github.com/dayzKo1/mjh_app): mini-app + web + cloud functions + admin) |
+
+## 🧰 Tech stack
+
+**Agent**: Prompt engineering · Skill / MCP · tool calling · multi-agent orchestration · eval & regression · MiniMax (Mavis) / Accio Work / Coze / Claude Code / Codex
+
+**Frontend**: React · Vue · TypeScript · Tauri · mini-programs · PixiJS · RxJS · ECharts
+
+**Backend**: NestJS · Python / FastAPI · Spring Boot · Redis · PostgreSQL · Docker
 
 ---
 
@@ -41,40 +67,12 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 
 ---
 
-## English
-
-### 🧭 What I do
-
-- **Enterprise agent deployment (FDE)** — implementing the AWB / Accio Work agent platform for foreign-trade companies: discovery → Agent/Skill customization → one-click install → user training → validation; distilled a 3-tier delivery baseline for fast onboarding of new clients
-- **Agent training** — behavior specs, long-term memory and data-compliance for production agents; reusable Skills including inquiry dashboards, CRM activation pipelines and failure-recovery SOPs
-- **Multi-agent engineering** — project-level orchestration (parallel development + independent review) shipping client sites and dashboards; auditable and rollback-safe
-- **Full-stack fallback** — 40+ projects over 5 years: React / Vue / TypeScript frontend, NestJS / FastAPI / Spring Boot backend, Tauri desktop, mini-programs and games
-
-### 🏗 Selected work
-
-| Project | Summary |
-| --- | --- |
-| **athena** (personal tool, private) | One-click install & configuration platform for agent skills: Tauri desktop + SKILL packaging toolchain + docs site, CI on 3 platforms |
-| **B2B overseas trade site** (client env) | Astro 7 + Node SSR, 4-locale i18n (incl. Arabic RTL), AI-triaged inquiry pipeline, full engineering baseline (RBAC / audit / Prometheus) |
-| **Ghost Huang Monorepo** (private) | Personal multi-repo full stack: Vue3 frontend + React admin + NestJS (25 business modules) + FastAPI microservice; migrated Java→NestJS via a multi-agent pipeline |
-| **Mini-game matrix** | 20+ Telegram / Douyin Mini Apps; flagship *Dragon Mahjong* fully open-sourced ([mjh_app](https://github.com/dayzKo1/mjh_app): mini-app + web + cloud functions + admin) |
-
-### 🧰 Tech stack
-
-**Agent**: Prompt engineering · Skill / MCP · tool calling · multi-agent orchestration · eval & regression · MiniMax (Mavis) / Accio Work / Coze / Claude Code / Codex
-
-**Frontend**: React · Vue · TypeScript · Tauri · mini-programs · PixiJS · RxJS · ECharts
-
-**Backend**: NestJS · Python / FastAPI · Spring Boot · Redis · PostgreSQL · Docker
-
----
-
 <div align="center">
 
-## 📫 联系我 / Contact
+## 📫 Contact / 联系我
 
 - Email: **845003566@qq.com**
 
-<sub>让每个智能体都交付真实业务结果 · Make every agent deliver real business outcomes</sub>
+<sub>Make every agent deliver real business outcomes · 让每个智能体都交付真实业务结果</sub>
 
 </div>
