@@ -26,7 +26,7 @@
 | **Athena's Atelier**（私仓） | 企业级 agents + skills 一键安装产品链：Tauri 桌面端 + SKILL 工具链 + 文档站，三平台 CI |
 | **外贸 B2B 出海独立站**（客户环境） | Astro 7 + Node SSR，四语 i18n（含阿语 RTL），询盘 AI 分诊流水线，RBAC / 审计 / Prometheus 完整工程基线 |
 | **Ghost Huang Monorepo**（私仓） | 个人多仓全栈：Vue3 前端 + React 管理后台 + NestJS（25 业务模块）+ FastAPI 微服务，用多智能体流水线完成 Java→NestJS 迁移 |
-| **小游戏矩阵** | 20+ 款 Telegram / 抖音 Mini App：PixiJS + RxJS 架构、对象池 60fps、可复用组件库（部分开源，见下方置顶） |
+| **小游戏矩阵** | 20+ 款 Telegram / 抖音 Mini App；代表作《中国龙 2》麻将消消乐**全栈开源**（[mjh_app](https://github.com/dayzKo1/mjh_app)：小程序 + Web + 云函数后端 + 管理后台） |
 
 ## 精选仓库
 
@@ -41,6 +41,13 @@
 **前端**：React · Vue · TypeScript · Tauri · 小程序 · PixiJS · RxJS · ECharts
 
 **后端**：NestJS · Python / FastAPI · Spring Boot · Redis · PostgreSQL · Docker
+
+## 📊 GitHub 统计
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=dayzKo1&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayzKo1&layout=compact&hide_border=true&langs_count=8" alt="Top langs" />
+</div>
 
 ## 📫 联系我
 
