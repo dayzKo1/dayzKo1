@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c2c,55:c84c22,100:f0a860&height=190&section=header&text=Daze%20%C2%B7%20dayzKo1&fontSize=54&fontColor=e6edf3&desc=AI%20Agent%20Engineer%20%E2%80%94%20FDE%20%C2%B7%20Agent%20Training%20%C2%B7%20Full-stack&descSize=17&descAlignY=76&descAlign=center&animation=fadeIn" width="100%" alt="Daze · dayzKo1 header"/>
+<img src="assets/header-wave.svg" width="100%" alt="Daze · dayzKo1 — AI Agent Engineer (FDE · Agent Training)"/>
 
 # Daze · dayzKo1
 
@@ -77,19 +77,6 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 
 <div align="center">
 
-## 📊 GitHub 统计 / Stats
-
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=dayzKo1&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c84c22&icon_color=f0a860" alt="GitHub stats"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayzKo1&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=c84c22" alt="Top languages"/>
-
-  <img src="https://streak-stats.demolab.com/?user=dayzKo1&hide_border=true&background=0d1117&currStreakLabel=c84c22" alt="streak" height="150"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## 📫 Contact / 联系我
 
 - Email: **845003566@qq.com** · **alluredayzko1@gmail.com**
@@ -97,3 +84,5 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 <sub>Make every agent deliver real business outcomes · 让每个智能体都交付真实业务结果</sub>
 
 </div>
+
+<img src="assets/footer-wave.svg" width="100%" alt=""/>
