@@ -71,7 +71,7 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 
 ## 📫 Contact / 联系我
 
-- Email: **845003566@qq.com**
+- Email: **845003566@qq.com** · **alluredayzko1@gmail.com**
 
 <sub>Make every agent deliver real business outcomes · 让每个智能体都交付真实业务结果</sub>
 
