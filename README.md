@@ -1,6 +1,6 @@
 <div align="center">
 
-# 林鸿昊 · dayzKo1
+# Daze · dayzKo1
 
 **AI Agent 工程师（前沿部署 FDE · 智能体训练）**
 
