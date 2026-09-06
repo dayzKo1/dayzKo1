@@ -13,7 +13,9 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 
 `Agent Engineering / Agent 工程化` · `RAG` · `MCP & Tool Calling / MCP 与工具调用` · `Prompt Engineering / Prompt 工程` · `Eval & Regression / 评测与回归`
 
-<img src="assets/skills-strip.svg" width="100%" alt="tech stack pills"/>
+<a href="https://github.com/dayzKo1?tab=repositories"><img src="https://skillicons.dev/icons?i=react,vue,ts,nestjs,fastapi,py&theme=dark" alt="frontend & backend icons"/></a>
+  <br/>
+  <a href="https://github.com/dayzKo1?tab=repositories"><img src="https://skillicons.dev/icons?i=spring,redis,postgres,docker,githubactions,huggingface&theme=dark" alt="backend & ops icons"/></a>
 
 </div>
 
