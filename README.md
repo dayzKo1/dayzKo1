@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.png" width="100%" alt="Daze · AI Agent Engineer — agent training & deployment"/>
+
 # Daze · dayzKo1
 
 **AI Agent Engineer (Forward-Deployed FDE · Agent Training)** / **AI Agent 工程师（前沿部署 FDE · 智能体训练）**
@@ -10,6 +12,8 @@ Putting LLM capabilities into real business: 30+ enterprise agent deployments ·
 **[English](#-what-i-do)** | [中文](#-我在做什么)
 
 `Agent Engineering / Agent 工程化` · `RAG` · `MCP & Tool Calling / MCP 与工具调用` · `Prompt Engineering / Prompt 工程` · `Eval & Regression / 评测与回归`
+
+<img src="assets/skills-strip.svg" width="100%" alt="tech stack pills"/>
 
 </div>
 

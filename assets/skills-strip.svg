@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1202" height="98" viewBox="0 0 1202 98">
+  <rect width="1202" height="98" fill="#0d1117"/>
+  <rect x="12" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="91" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">React</text>
+  <rect x="182" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="261" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Vue</text>
+  <rect x="352" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="431" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">TypeScript</text>
+  <rect x="522" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="601" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">NestJS</text>
+  <rect x="692" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="771" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">FastAPI</text>
+  <rect x="862" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="941" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Python</text>
+  <rect x="1032" y="16" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="1111" y="38" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Spring Boot</text>
+  <rect x="12" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="91" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">RAG</text>
+  <rect x="182" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="261" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">MCP</text>
+  <rect x="352" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="431" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Tool Calling</text>
+  <rect x="522" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="601" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Multi-Agent</text>
+  <rect x="692" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="771" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Prompt Eng</text>
+  <rect x="862" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="941" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Eval &amp; Regression</text>
+  <rect x="1032" y="64" width="158" height="34" rx="17" fill="#11161f" stroke="#30363d"/>
+  <text x="1111" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#e6edf3">Docker</text>
+</svg>
